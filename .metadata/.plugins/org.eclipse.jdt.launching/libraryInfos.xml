@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\SSAFFY" version="1.8.0_292">
+<bootpath>
+<entry path="C:\SSAFFY\jre\lib\resources.jar"/>
+<entry path="C:\SSAFFY\jre\lib\rt.jar"/>
+<entry path="C:\SSAFFY\jre\lib\sunrsasign.jar"/>
+<entry path="C:\SSAFFY\jre\lib\jsse.jar"/>
+<entry path="C:\SSAFFY\jre\lib\jce.jar"/>
+<entry path="C:\SSAFFY\jre\lib\charsets.jar"/>
+<entry path="C:\SSAFFY\jre\lib\jfr.jar"/>
+<entry path="C:\SSAFFY\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\SSAFFY\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\SSAFFY\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\SSAFFY\jre" version="1.8.0_292">
+<bootpath>
+<entry path="C:\SSAFFY\jre\lib\resources.jar"/>
+<entry path="C:\SSAFFY\jre\lib\rt.jar"/>
+<entry path="C:\SSAFFY\jre\lib\sunrsasign.jar"/>
+<entry path="C:\SSAFFY\jre\lib\jsse.jar"/>
+<entry path="C:\SSAFFY\jre\lib\jce.jar"/>
+<entry path="C:\SSAFFY\jre\lib\charsets.jar"/>
+<entry path="C:\SSAFFY\jre\lib\jfr.jar"/>
+<entry path="C:\SSAFFY\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\SSAFFY\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\SSAFFY\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
